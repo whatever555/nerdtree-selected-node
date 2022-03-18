@@ -1,0 +1,26 @@
+CONTENTS
+
+    1.Intro...................................|NERDTreeSelectedNode|
+    2.Requirements............................|NERDTreeSelectedNodeRequirements|
+    3.Usage...................................|NERDTreeSelectedNodeUsage|
+    4.License.................................|NERDTreeSelectedNodeLicense|
+
+==============================================================================
+1. Intro                                                *NERDTreeSelectedNode*
+
+The NERDTreeSelectedNode allows you to better view the selecte node 
+
+==============================================================================
+2. Requirements                                         *NERDTreeSelectedNodeRequirements*
+You need to have a working verion of [NerdTree](https://github.com/preservim/nerdtree) running on vim
+
+
+==============================================================================
+3. Usage                                                *NERDTreeSelectedNodeUsage*
+In the NERDTree explorer select any file or folder.
+
+------------------------------------------------------------------------------
+4. License                                              *NERDTreeSelectedNodeLicense*
+NERDTreeSelectedNode uses the same licensing as NERDTree
+See http://sam.zoy.org/wtfpl/COPYING.
+
